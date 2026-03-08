@@ -174,4 +174,5 @@ Logs are stored in the `KMS/logs/` directory. The agent provides detailed loggin
 
 ---
 
-**Note**: This agent is designed specifically for Adidas customer support scenarios and includes specialized tools for product search, order management, and customer service workflows.
+**Note**: This agent is designed specifically for Adidas customer support scenarios for Demonstration and includes specialized tools for product search, order management, and customer service workflows.
+
